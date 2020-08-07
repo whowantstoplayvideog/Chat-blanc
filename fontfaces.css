@@ -1,12 +1,12 @@
 @font-face {
-font-family: 'KHNPHanuoolim';
-src: url('한수원_한울림_R.ttf') format('truetype');
+font-family: 'DX영화자막 M';
+src: url('DXMSubtitlesM-KSCpc-EUC-H.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'Sandoll MiSaeng';
-src: url('SDMiSaeng.ttf') format('truetype');
+font-family: 'KHNPHandotum';
+src: url('한수원_한돋음_R.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
@@ -17,20 +17,20 @@ font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'RIDIBatang';
-src: url('RIDIBatang.otf') format('opentype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
 font-family: 'Roboto';
 src: url('Roboto-Regular.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'DX영화자막 M';
-src: url('DXMSubtitlesM-KSCpc-EUC-H.ttf') format('truetype');
+font-family: 'Sandoll MiSaeng';
+src: url('SDMiSaeng.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'KHNPHanuoolim';
+src: url('한수원_한울림_R.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
@@ -41,8 +41,8 @@ font-weight: bold;
 font-style: normal;
 }
 @font-face {
-font-family: 'KHNPHandotum';
-src: url('한수원_한돋음_R.ttf') format('truetype');
+font-family: 'RIDIBatang';
+src: url('RIDIBatang.otf') format('opentype');
 font-weight: normal;
 font-style: normal;
 }
