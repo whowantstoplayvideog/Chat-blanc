@@ -1,36 +1,36 @@
 @font-face {
+font-family: 'THESusu';
+src: url('THESusu.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'NanumBarunpen';
+src: url('NanumBarunpenR.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'RIDIBatang';
+src: url('RIDIBatang.otf') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: '1HoonDdukbokki R';
+src: url('HoonDdukbokki.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'THEBalsamtint';
+src: url('THE봉숭아틴트.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
 font-family: 'DX영화자막 M';
-src: url('DXMSubtitlesM-KSCpc-EUC-H.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'KHNPHandotum';
-src: url('한수원_한돋음_R.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'ThecircleL';
-src: url('동그라미재단L.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'Roboto';
-src: url('Roboto-Regular.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'Sandoll MiSaeng';
-src: url('SDMiSaeng.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'KHNPHanuoolim';
-src: url('한수원_한울림_R.ttf') format('truetype');
+src: url('DXMSubtitlesM-KSCpc-EUC-H (1).ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
@@ -41,8 +41,20 @@ font-weight: bold;
 font-style: normal;
 }
 @font-face {
-font-family: 'RIDIBatang';
-src: url('RIDIBatang.otf') format('opentype');
+font-family: 'DX영화자막 M';
+src: url('jamak.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Roboto';
+src: url('Roboto-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'ThecircleL';
+src: url('동그라미재단L.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
