@@ -1,30 +1,6 @@
 @font-face {
-font-family: 'THESusu';
-src: url('THESusu.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
 font-family: 'NanumBarunpen';
 src: url('NanumBarunpenR.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'RIDIBatang';
-src: url('RIDIBatang.otf') format('opentype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: '1HoonDdukbokki R';
-src: url('HoonDdukbokki.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'THEBalsamtint';
-src: url('THE봉숭아틴트.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
@@ -35,9 +11,9 @@ font-weight: normal;
 font-style: normal;
 }
 @font-face {
-font-family: 'Roboto';
-src: url('Roboto-Bold.ttf') format('truetype');
-font-weight: bold;
+font-family: 'THESusu';
+src: url('THESusu.ttf') format('truetype');
+font-weight: normal;
 font-style: normal;
 }
 @font-face {
@@ -56,5 +32,29 @@ font-style: normal;
 font-family: 'ThecircleL';
 src: url('동그라미재단L.ttf') format('truetype');
 font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: '1HoonDdukbokki R';
+src: url('HoonDdukbokki.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'RIDIBatang';
+src: url('RIDIBatang.otf') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'THEBalsamtint';
+src: url('THE봉숭아틴트.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Roboto';
+src: url('Roboto-Bold.ttf') format('truetype');
+font-weight: bold;
 font-style: normal;
 }
